@@ -1,0 +1,4 @@
+Resolusi Gua
+- Konsisten belajar python
+- Konsisten belajar Linux
+- Konsisten belajar Git dan Github
